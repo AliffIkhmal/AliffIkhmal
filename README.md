@@ -20,14 +20,11 @@ IT fresh graduate passionate about turning data into insights and building thing
 
 ## Featured Project
 
-### [Student Performance Prediction System](https://github.com/AliffIkhmal/StudPerformancePred)
+### [Student Performance Prediction System]([https://github.com/AliffIkhmal/StudPerformancePred)
 A machine learning web app that predicts student grades using 8 supervised models with automatic best-model selection, SMOTE for imbalanced data, and role-based authentication.
 
 **Built with:** Python, Streamlit, Scikit-learn, Plotly
 
-## GitHub Stats
 
-![AliffIkhmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliffIkhmal&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliffIkhmal&layout=compact&theme=default)
 
