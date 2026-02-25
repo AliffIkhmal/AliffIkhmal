@@ -1,4 +1,4 @@
-# Hi, I'm Aliff Ikhmal 👋
+# Hi, I'm Aliff Ikhmal
 
 IT fresh graduate passionate about turning data into insights and building things that work.
 
