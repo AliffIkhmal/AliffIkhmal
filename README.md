@@ -4,7 +4,7 @@ IT fresh graduate passionate about turning data into insights and building thing
 
 ## About Me
 
-- 🔭 Currently exploring Data Science and Backend Development
+- 🔭 Currently exploring Python and Data Engineering
 - 🌱 Learning **Python**, **Machine Learning**, and **Web Development**
 - 📫 Reach me on [GitHub](https://github.com/AliffIkhmal)
 
