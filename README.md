@@ -1,11 +1,11 @@
 # Hi, I'm Aliff Ikhmal
 
-IT fresh graduate passionate about turning data into insights and building things that work.
+IT fresh graduate passionate about Software Engineering 
 
 ## About Me
 
-- 🔭 Currently exploring Python and Data Engineering
-- 🌱 Learning **Python**, **Machine Learning**, and **Web Development**
+- Currently exploring Python and Data Engineering
+- Learning **Python**, and **Web Development**
 - 📫 Reach me on [GitHub](https://github.com/AliffIkhmal)
 
 ## Tech Stack
